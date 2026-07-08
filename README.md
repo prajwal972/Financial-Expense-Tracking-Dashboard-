@@ -36,17 +36,6 @@ It helps users understand their spending habits, identify high-expense categorie
 - 📉 Data Visualization
 
 ---
-
-# 📸 Dashboard Preview
-
-> Replace these images with your own screenshots.
-
-<p align="center">
-
-<img src="assets/dashboard.png" width="900">
-
-</p>
-
 ---
 
 # 🛠 Tech Stack
