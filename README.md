@@ -34,8 +34,7 @@ It helps users understand their spending habits, identify high-expense categorie
 - 🎯 KPI Cards
 - 🔍 Dynamic Filters & Slicers
 - 📉 Data Visualization
-
----
+  
 ---
 
 # 🛠 Tech Stack
