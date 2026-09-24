@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💰 Financial Expense Tracking Dashboard!
+# 💰 Financial Expense Tracking Dashboard
 
 ### Interactive Power BI Dashboard for Personal Finance Analysis
 
